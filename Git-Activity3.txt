@@ -1,1 +1,2 @@
 This is my First Git Activity
+I am learning how to use Git branches
