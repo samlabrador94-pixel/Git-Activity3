@@ -1,2 +1,3 @@
 This is my First Git Activity
 I am learning how to use Git branches
+This change was made directly on GitHub
